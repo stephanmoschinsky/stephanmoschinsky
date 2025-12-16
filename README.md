@@ -2,8 +2,9 @@
 
 Operator-led market entry and execution frameworks for Germany / DACH.
 
-I work with founders, CEOs, and leadership teams who already have traction —
-and need their market entry or business unit execution to actually work.
+I work with founders, CEOs, and leadership teams with proven traction —
+either in their core business or in adjacent markets —
+who need their market entry or business unit execution to actually work.
 
 This GitHub profile contains **execution-first frameworks** based on real operating experience,
 not theory or consulting models.
