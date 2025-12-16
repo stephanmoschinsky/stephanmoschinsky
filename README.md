@@ -1,16 +1,65 @@
-## Hi there 👋
+# Stephan Moschinsky
 
-<!--
-**stephanmoschinsky/stephanmoschinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operator-led market entry and execution frameworks for Germany / DACH.
 
-Here are some ideas to get you started:
+I work with founders, CEOs, and leadership teams who already have traction —
+and need their market entry or business unit execution to actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile contains **execution-first frameworks** based on real operating experience,
+not theory or consulting models.
+
+---
+
+## Focus Areas
+
+- Market entry into Germany / DACH
+- Ownership & decision architecture
+- First 90 days execution systems
+- Business unit & country launch readiness
+- Execution breakdown prevention
+
+Principle:
+**Ownership before strategy.  
+Structure before scale.  
+Execution before optimisation.**
+
+---
+
+## Framework Repositories
+
+### 📌 Market Entry DACH – Execution Playbook
+Common internal breakdowns that kill market entry before sales start.
+
+👉 https://github.com/stephanmoschinsky/market-entry-dach-playbook
+
+Includes:
+- Failure maps
+- 90-day execution framework
+- Business unit launch checklist
+
+---
+
+## How to use this content
+
+These frameworks are intentionally:
+- practical
+- opinionated
+- execution-focused
+
+They are designed to:
+- diagnose failure points early
+- create clarity of ownership
+- prevent slow, silent market entry collapse
+
+No community support, issues, or discussions are provided.
+
+---
+
+## Background
+
+I have built and led market entry and execution setups from inside the organisation.
+This repository reflects what actually breaks — and what holds — in real operating environments.
+
+---
+
+Website: https://www.moschinsky.com
