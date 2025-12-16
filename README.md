@@ -29,6 +29,27 @@ Execution before optimisation.**
 
 ## Framework Repositories
 
+These repositories document execution systems I repeatedly use in real market entry and scaling situations.
+
+### 1. Market Entry Failure Map (DACH)
+Common internal breakdowns that kill DACH market entry before sales start.
+
+→ [View framework](https://github.com/stephanmoschinsky/market-entry-dach-playbook/blob/main/01-market-entry-failure-map.md)
+
+### 2. 90-Day Execution Framework
+A concrete operating system for the first 90 days after market entry or business unit launch.
+
+→ [View 90-Day Execution Framework](https://github.com/stephanmoschinsky/market-entry-dach-playbook/blob/main/02-90-day-execution-framework.md)
+
+### 3. Business Unit Launch Checklist
+A hard launch gate for CEOs and boards before committing real capital.
+
+→ [View Business Unit Launch Checklist](https://github.com/stephanmoschinsky/market-entry-dach-playbook/blob/main/03-business-unit-launch-checklist.md)
+
+---
+
+## Framework Repositories
+
 ### 📌 Market Entry DACH – Execution Playbook
 Common internal breakdowns that kill market entry before sales start.
 
