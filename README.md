@@ -2,7 +2,7 @@
 
 Operator-led market entry and execution frameworks for Germany / DACH.
 
-I work with founders, CEOs, and leadership teams with proven traction —
+Level Nine Consulting works with founders, CEOs, and leadership teams with proven traction —
 either in their core business or in adjacent markets —
 who need their market entry or business unit execution to actually work.
 
@@ -30,22 +30,22 @@ Execution before optimisation.**
 
 ## Framework Repositories
 
-These repositories document execution systems I repeatedly use in real market entry and scaling situations.
+These repositories document execution systems we repeatedly use in real market entry and scaling situations.
 
 ### 1. Market Entry Failure Map (DACH)
 Common internal breakdowns that kill DACH market entry before sales start.
 
-→ [View framework](https://github.com/stephanmoschinsky/market-entry-dach-playbook/blob/main/01-market-entry-failure-map.md)
+→ [View framework](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/01-market-entry-failure-map.md)
 
 ### 2. 90-Day Execution Framework
 A concrete operating system for the first 90 days after market entry or business unit launch.
 
-→ [View 90-Day Execution Framework](https://github.com/stephanmoschinsky/market-entry-dach-playbook/blob/main/02-90-day-execution-framework.md)
+→ [View 90-Day Execution Framework](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/02-90-day-execution-framework.md)
 
 ### 3. Business Unit Launch Checklist
 A hard launch gate for CEOs and boards before committing real capital.
 
-→ [View Business Unit Launch Checklist](https://github.com/stephanmoschinsky/market-entry-dach-playbook/blob/main/03-business-unit-launch-checklist.md)
+→ [View Business Unit Launch Checklist](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/03-business-unit-launch-checklist.md)
 
 ---
 
@@ -83,12 +83,8 @@ No community support, issues, or discussions are provided.
 
 ## Background
 
-I have built and led market entry and execution setups from inside the organisation.
-This repository reflects what actually breaks — and what holds — in real operating environments.
-
----
-
-Website: https://www.moschinsky.com
+Level Nine Consulting builds and leads market entry and execution frameworks for companies in the DACH region. 
+This repository reflects proven operating systems that handle market entry breakdowns.
 
 ---
 
