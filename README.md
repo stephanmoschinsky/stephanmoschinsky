@@ -1,4 +1,4 @@
-# Stephan Moschinsky
+# Level Nine Consulting
 
 Operator-led market entry and execution frameworks for Germany / DACH.
 
